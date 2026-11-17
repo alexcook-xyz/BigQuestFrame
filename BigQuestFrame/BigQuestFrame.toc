@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Big Quest Frame
+## Notes: Scales the NPC gossip and quest windows, with optional one-page-at-a-time reader. /bqf for options.
+## Author: alexcook-xyz
+## Version: 1.0
+## SavedVariables: BigQuestFrameDB
+
+BigQuestFrame.lua
